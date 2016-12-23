@@ -1,0 +1,5 @@
+c:\users\di fang\documents\visual studio 2013\Projects\Brunner.Eavl\Brunner.Eval.Constant\bin\Debug\Brunner.Eval.Constant.dll
+c:\users\di fang\documents\visual studio 2013\Projects\Brunner.Eavl\Brunner.Eval.Constant\bin\Debug\Brunner.Eval.Constant.pdb
+c:\users\di fang\documents\visual studio 2013\Projects\Brunner.Eavl\Brunner.Eval.Constant\obj\Debug\Brunner.Eval.Constant.csprojResolveAssemblyReference.cache
+c:\users\di fang\documents\visual studio 2013\Projects\Brunner.Eavl\Brunner.Eval.Constant\obj\Debug\Brunner.Eval.Constant.dll
+c:\users\di fang\documents\visual studio 2013\Projects\Brunner.Eavl\Brunner.Eval.Constant\obj\Debug\Brunner.Eval.Constant.pdb
